@@ -38,7 +38,7 @@ return [
     */
 
     /**
-     * ! Original 
+     * ! Original
      *  'guards' => [
      *    'web' => [
      *        'driver' => 'session',
@@ -57,6 +57,7 @@ return [
                 'driver' => 'jwt',
                 'provider' => 'users',
         ],
+    ] ,
 
     /*
     |--------------------------------------------------------------------------
